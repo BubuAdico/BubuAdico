@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @BubuAdico
-- 👀 I’m interested in ... Coding
-- 🌱 I’m currently learning ... Ruby & Javascript
-- 💞️ I’m looking to collaborate on ... projects involving applications
-- 📫 How to reach me ... adikobubu@gmail.com
+- I am Bart Simpson, who the hell are you😮‍💨?
+- You know where to find me adikobubu@gmail.com
 
 <!---
 BubuAdico/BubuAdico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
