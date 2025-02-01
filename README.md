@@ -7,11 +7,6 @@ Hey there! 👋 I’m **Bubu Adico**, a relentless explorer in the digital wilde
 🌌 Dreamer by night, coder by day, and always hungry for the next big challenge.  
 🎯 Chasing innovation, one project at a time—because "ordinary" just isn't my style.  
 
-## **What I Do**  
-- **Code Magician** 🪄: Turning JavaScript, React, Ruby on Rails, and Flutter into pure gold.  
-- **Vision Architect** 🏗️: Building projects that solve problems and tell stories.  
-- **Tech Enthusiast** 💡: Always learning, always growing, always ready to explore the unknown.  
-
 ## **Social Media**  
 🌐 **X (Twitter):** [@unic_bubu](https://x.com/unic_bubu)  
 🔗 **LinkedIn:** [in/bubuadiko](https://linkedin.com/in/bubuadiko)  
